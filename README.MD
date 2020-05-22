@@ -9,7 +9,7 @@
 Posts are about tech, hacks, lifestyle and opportunities
 i will try to post contents every weekend (i'm not sure)
 
-Check out [blog.ishamsu.me](blog.ishamsu.me)
+Check out [blog.ishamsu.me](http://blog.ishamsu.me/)
 
 ---
 Made with ❤️ [Pink panther](https://en.wikipedia.org/wiki/The_Pink_Panther)
